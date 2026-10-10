@@ -1,0 +1,161 @@
+{
+  "n_quarters": 8,
+  "quarters": [
+    "2023Q4",
+    "2024Q1",
+    "2024Q2",
+    "2024Q4",
+    "2025Q1",
+    "2025Q2",
+    "2025Q3",
+    "2025Q4"
+  ],
+  "avg_words_per_letter": 402.0,
+  "top_words": [
+    {
+      "word": "trading",
+      "total": 56,
+      "in_quarters": 8
+    },
+    {
+      "word": "digital",
+      "total": 32,
+      "in_quarters": 8
+    },
+    {
+      "word": "assets",
+      "total": 24,
+      "in_quarters": 8
+    },
+    {
+      "word": "growth",
+      "total": 19,
+      "in_quarters": 8
+    },
+    {
+      "word": "market",
+      "total": 18,
+      "in_quarters": 8
+    },
+    {
+      "word": "technology",
+      "total": 13,
+      "in_quarters": 8
+    },
+    {
+      "word": "capital",
+      "total": 23,
+      "in_quarters": 7
+    },
+    {
+      "word": "asset",
+      "total": 21,
+      "in_quarters": 7
+    },
+    {
+      "word": "volatility",
+      "total": 12,
+      "in_quarters": 7
+    },
+    {
+      "word": "strategic",
+      "total": 10,
+      "in_quarters": 7
+    },
+    {
+      "word": "markets",
+      "total": 13,
+      "in_quarters": 6
+    },
+    {
+      "word": "expansion",
+      "total": 13,
+      "in_quarters": 6
+    },
+    {
+      "word": "opportunities",
+      "total": 12,
+      "in_quarters": 6
+    },
+    {
+      "word": "traditional",
+      "total": 12,
+      "in_quarters": 6
+    },
+    {
+      "word": "capabilities",
+      "total": 12,
+      "in_quarters": 6
+    }
+  ],
+  "top5_reveal": [
+    "trading",
+    "digital",
+    "assets",
+    "growth",
+    "market"
+  ],
+  "predicted_opener_next_quarter": "flow traders has made concerted push into new markets asset classes this quarter serves as further validation of our trading capital expansion",
+  "novelty_pct_by_quarter": {
+    "2023Q4": null,
+    "2024Q1": 62.4,
+    "2024Q2": 64.0,
+    "2024Q4": 48.2,
+    "2025Q1": 51.4,
+    "2025Q2": 37.3,
+    "2025Q3": 51.8,
+    "2025Q4": 48.1
+  },
+  "recycled_pct_by_quarter": {
+    "2023Q4": null,
+    "2024Q1": 37.6,
+    "2024Q2": 36.0,
+    "2024Q4": 51.8,
+    "2025Q1": 48.6,
+    "2025Q2": 62.7,
+    "2025Q3": 48.2,
+    "2025Q4": 51.9
+  },
+  "avg_recycled_pct": 48.1,
+  "phrase_reuse_pct_by_quarter": {
+    "2023Q4": null,
+    "2024Q1": 8.5,
+    "2024Q2": 6.0,
+    "2024Q4": 9.2,
+    "2025Q1": 10.5,
+    "2025Q2": 14.1,
+    "2025Q3": 2.4,
+    "2025Q4": 3.8
+  },
+  "avg_phrase_reuse_pct": 7.8,
+  "backtest": {
+    "trained_on": [
+      "2023Q4",
+      "2024Q1",
+      "2024Q2",
+      "2024Q4",
+      "2025Q1",
+      "2025Q2",
+      "2025Q3"
+    ],
+    "held_out": "2025Q4",
+    "predicted_opener": "flow traders has made concerted push into new markets asset classes and regions we believe we can accelerate the growth of the",
+    "actual_opener": "following fourth quarter marked by stronger market activity and continued growth across the global etp ecosystem flow traders delivered solid finish to",
+    "top_words_predictability_pct": 80.0,
+    "hits": [
+      "trading",
+      "digital",
+      "assets",
+      "capital",
+      "asset",
+      "market",
+      "growth",
+      "expansion",
+      "volatility",
+      "technology",
+      "opportunities",
+      "capabilities"
+    ]
+  },
+  "nti_vix_correlation": 0.57
+}
